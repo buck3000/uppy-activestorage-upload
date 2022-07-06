@@ -1,6 +1,6 @@
 {
-  "name": "@excid3/uppy-activestorage-upload",
-  "description": "Rails ActiveStorage DirectUpload engine for Uppy",
+  "name": "@buck3000/uppy-activestorage-upload",
+  "description": "Fork of Excid Rails ActiveStorage DirectUpload engine for Uppy",
   "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
